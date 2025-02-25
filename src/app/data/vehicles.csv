@@ -1,0 +1,4 @@
+id,type,capacity,available,startPoint,endPoint
+1,Car (4+1),5,1,Downtown,Airport
+2,Van (7+1),8,1,Downtown,Airport
+3,Minibus (8+1),9,1,City Center,Beach
